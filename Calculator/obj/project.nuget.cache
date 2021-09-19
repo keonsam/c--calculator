@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb2higr8Krjh/4EGe6+QGD3Ps7BWcJHlba1lkaSd2SoLYBamUcoglKtssl39rzhESumRm2b71vwtt37H4deJZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keon\\Documents\\apps\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
